@@ -1,9 +1,16 @@
-# ?? Indah's Beaut� Atelier
+# 🌟 Indah's Beauté Atelier
 
-Website ini adalah prototype e-commerce statis yang dibuat dengan HTML, CSS, dan JavaScript.
+> Proyek tugas akhir KAIT II, Program Studi Administrasi Bisnis.
 
-## Tujuan
-Menampilkan katalog produk, keranjang belanja, checkout sederhana, dan halaman admin.
+Website ini adalah prototype e-commerce statis untuk produk kecantikan, dibuat dengan HTML, CSS, dan JavaScript.
+
+## Fitur Utama
+
+- Katalog produk dan halaman detail produk
+- Keranjang belanja dengan update jumlah dan hapus barang
+- Checkout sederhana dengan formulir data pengiriman
+- Halaman admin untuk mengelola produk dan melihat pesanan
+- Data produk, keranjang, dan pesanan disimpan di `localStorage` browser
 
 ## Struktur File Utama
 Pastikan upload semua file berikut ke root repository GitHub:
@@ -31,13 +38,12 @@ Pastikan upload semua file berikut ke root repository GitHub:
 
 ## Cara Upload via GitHub Web
 
-1. Buat repository baru di GitHub.
-2. Buka repository tersebut.
-3. Klik `Add file` -> `Upload files`.
-4. Seret semua file dan folder dari folder `indah` ke area upload.
-5. Pastikan `index.html` dan folder `css`, `js`, `image` ikut terupload.
-6. Tambahkan pesan commit, misalnya `Upload website files`.
-7. Klik `Commit changes`.
+1. Buka repository GitHub baru.
+2. Klik `Add file` -> `Upload files`.
+3. Seret seluruh isi folder `indah` ke area upload.
+4. Pastikan `index.html` dan folder `css`, `js`, serta `image` ikut terupload.
+5. Tambahkan pesan commit, misalnya `Upload website files`.
+6. Klik `Commit changes`.
 
 ## Setting GitHub Pages
 
@@ -51,14 +57,12 @@ Pastikan upload semua file berikut ke root repository GitHub:
 
 - Upload normal via GitHub Web sudah cukup.
 - Tidak perlu Git atau command line jika Anda hanya ingin upload biasa.
-- Jika halaman belum muncul, refresh browser setelah beberapa menit.
-
-## Cek jika ada masalah
-
-- Pastikan file `index.html` ada di root repo.
-- Pastikan folder `css`, `js`, dan `image` ada di root repo.
-- Jika salah satu file tidak ada, website tidak akan tampil sempurna.
+- Jika halaman belum muncul, refresh browser beberapa kali.
 
 ## Akses Admin
 
 Setelah upload, buka `admin_login.html` untuk mengakses halaman admin.
+
+## Catatan Tambahan
+
+Jika Anda ingin saya cek ulang file yang sudah diupload, beri tahu saya.
